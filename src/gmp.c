@@ -1,3 +1,5 @@
+// -*-  mode: c    ; coding: koi8   -*- ----------------------------------------
+
 /*
  * src/gmp.h
  * Copyright (C) 1995-1997 William Shubert.

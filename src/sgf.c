@@ -1,3 +1,5 @@
+// -*-  mode: c    ; coding: koi8   -*- ----------------------------------------
+
 /* sgf_utils.c */
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\
  * This is GNU GO, a Go program. Contact gnugo@gnu.org, or see       *
